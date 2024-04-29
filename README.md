@@ -16,6 +16,7 @@
 - **PPG+AST+REB (Player impact)**
 - **USG% (Usage Rate, how often player is in control of the ball)**
 - **SRS (Simple-Rating System, relative strength of a team)**
+- **W/L% (Team Win/Loss %)**
 - **Average USG% (takes the average usage amongst the key players of a team)**
 - **Average PPG+AST+REB (takes the average PPG+AST+REB amongst the key players of a team)**
 
