@@ -10,14 +10,15 @@
 
 ### Key metrics:
 
-#### PPG (Player points per game)
-#### REB (Player rebounds per game)
-#### AST (Player assists per game)
-#### PPG+AST+REB (Player impact) 
-#### USG% (Usage Rate, how often player is in control of the ball)
-#### SRS (Simple-Rating System, relative strength of a team)
-#### Average USG% (takes the average usage amongst the key players of a team)
-#### Average PPG+AST+REB (takes the average PPG+AST+REB amongst the key players of a team)
+- **PPG (Player points per game)
+- **REB (Player rebounds per game)
+- **AST (Player assists per game)
+- **PPG+AST+REB (Player impact) 
+- **USG% (Usage Rate, how often player is in control of the ball)
+- **SRS (Simple-Rating System, relative strength of a team)
+- **Average USG% (takes the average usage amongst the key players of a team)
+- **Average PPG+AST+REB (takes the average PPG+AST+REB amongst the key players of a team)**
+
 
 #### 3. Methods and Algorithms
    - **Descriptive Statistics**: Mention any initial statistics or data summaries.
