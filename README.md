@@ -49,7 +49,6 @@ The scenarios are:
    - **Final Thoughts**: The study shows that players with the ball a lot has a high impact in terms of PPG+REB+AST, but that doesn't always help the team win games. To really understand why, there needs to be a more indepth anaylsis of advanced statsitics.
 
 #### 8. References
-   - **Data Sources**:
-      Basketball-Reference.com. (n.d.). Player Index. Retrieved [April 28,2024], from https://www.basketball-reference.com/players/
-     National Basketball Association. (n.d.). Advanced Player Stats: 2019-20 Season. Retrieved [April, 28, 2024], from https://www.nba.com/stats/players/advanced?Season=2019-20&TeamID=1610612746&dir=A&sort=MIN
+- Basketball-Reference.com. (n.d.). Player Index. Retrieved [April 28,2024], from https://www.basketball-reference.com/players/
+- National Basketball Association. (n.d.). Advanced Player Stats: 2019-20 Season. Retrieved [April, 28, 2024], from https://www.nba.com/stats/players/advanced?Season=2019-20&TeamID=1610612746&dir=A&sort=MIN
 
