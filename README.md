@@ -10,13 +10,13 @@
 
 ### Key metrics:
 
-- **PPG (Player points per game)
-- **REB (Player rebounds per game)
-- **AST (Player assists per game)
-- **PPG+AST+REB (Player impact) 
-- **USG% (Usage Rate, how often player is in control of the ball)
-- **SRS (Simple-Rating System, relative strength of a team)
-- **Average USG% (takes the average usage amongst the key players of a team)
+- **PPG (Player points per game)**
+- **REB (Player rebounds per game)**
+- **AST (Player assists per game)**
+- **PPG+AST+REB (Player impact)**
+- **USG% (Usage Rate, how often player is in control of the ball)**
+- **SRS (Simple-Rating System, relative strength of a team)**
+- **Average USG% (takes the average usage amongst the key players of a team)**
 - **Average PPG+AST+REB (takes the average PPG+AST+REB amongst the key players of a team)**
 
 
@@ -24,7 +24,14 @@
    - **Descriptive Statistics**: Mention any initial statistics or data summaries.
    - **Exploratory Data Analysis (EDA)**: Describe techniques and tools used for exploring the data (e.g., visualization, correlation matrices).
    - **Statistical Testing**: Detail any statistical tests conducted to support or refute the hypothesis.
-   - **Regression Analysis**: Explain the regression techniques used to analyze the relationship between player usage% and team success.
+   - **Regression Analysis**: Explain the regression techniques used to analyze the relationship between player usage% and team success. Regression Anaylsis was performed on 4 different scenarios to investigate the similarities between player statistics and team success stats.
+
+The scenarios are:
+   - 'PPG+REB+AST vs USG%'
+   - 'AVG USG% vs Team Win/Loss%'
+   - 'AVG USG% vs SRS'
+   - 'AVG USG% vs AVG of PPG+REB+AST'
+     
    - **Model Evaluation**: Discuss how models were validated and their performance metrics.
 
 #### 4. Results
