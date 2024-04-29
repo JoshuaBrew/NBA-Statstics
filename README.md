@@ -22,9 +22,8 @@
 
 #### 3. Methods and Algorithms
    - **Descriptive Statistics**: Mention any initial statistics or data summaries.
-   - **Exploratory Data Analysis (EDA)**: Describe techniques and tools used for exploring the data (e.g., visualization, correlation matrices).
-   - **Statistical Testing**: Detail any statistical tests conducted to support or refute the hypothesis.
-   - **Regression Analysis**: Explain the regression techniques used to analyze the relationship between player usage% and team success. Regression Anaylsis was performed on 4 different scenarios to investigate the similarities between player statistics and team success stats.
+   - **Exploratory Data Analysis (EDA)**: Techniques used to explore the data were visualization, linear regression, and the use of PANDAS.
+   - **Regression Analysis**: Regression Anaylsis was performed on 4 different scenarios to investigate the similarities between player statistics and team success stats.
 
 The scenarios are:
    - 'PPG+REB+AST vs USG%'
@@ -32,7 +31,7 @@ The scenarios are:
    - 'AVG USG% vs SRS'
    - 'AVG USG% vs AVG of PPG+REB+AST'
      
-   - **Model Evaluation**: Discuss how models were validated and their performance metrics.
+   - **Model Evaluation**: Only the 'PPG+REB+AST vs USG%' had similarity with an R-score value of 0.68. The rest of the models showed little correlation.
 
 #### 4. Results
    - **Summary of Findings**: Provide a brief overview of key findings without going into too much detail.
