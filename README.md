@@ -1,16 +1,23 @@
 ### NBA Player Usage% and Team Success Data Science Project
 
 #### 1. Project Overview
-   - **Objective**: Briefly state the goal of the project.
-   - **Hypothesis**: Outline the hypothesis being tested.
-   - **Significance**: Explain why this analysis is important for basketball analytics.
+   - **Objective**: Determine if a ball-dominant playstyle leads to greater team success, measured in SRS (Simple-Rating System) or relative strength of a team.
+   - **Hypothesis**:  Teams with a higher usage rate for key players will have a higher positive correlation with their overall team success.
+   - **Significance**: NBA teams across over have adapted different playstyles that are dependent on how an offense is coordinated through a primary ball handlers. In the modern age of basketball, there is a nuance of positionless-basketball. In this case, the primary facillator isn't always the point guard. This study investigates how key player impact and their usage rate affect overall team success.
 
 #### 2. Data Collection
-   - **Source of Data**: Detail the sources from which data was collected (e.g., basketball-reference.com, NBA stats API).
-   - **Data Points**: List the key data points gathered (e.g., player usage%, team SRS).
-   - **Time Frame**: Specify the seasons or years the data covers.
-   - **Data Retrieval Process**: Describe how the data was extracted (API calls, web scraping tools, etc.).
-   - **Data Cleaning and Preprocessing**: Outline steps taken to clean and prepare the data for analysis (e.g., handling missing values, data normalization).
+   - #### Data on indivudual players were sourced from www.basketball-refrence.com and www.nba.com/stats. Data on team success was sourced from an excel file (attached to repository).
+
+### Key metrics:
+
+#### PPG (Player points per game)
+#### REB (Player rebounds per game)
+#### AST (Player assists per game)
+#### PPG+AST+REB (Player impact) 
+#### USG% (Usage Rate, how often player is in control of the ball)
+#### SRS (Simple-Rating System, relative strength of a team)
+#### Average USG% (takes the average usage amongst the key players of a team)
+#### Average PPG+AST+REB (takes the average PPG+AST+REB amongst the key players of a team)
 
 #### 3. Methods and Algorithms
    - **Descriptive Statistics**: Mention any initial statistics or data summaries.
