@@ -22,7 +22,6 @@
 For stats such as 'Average PPG+AST+REB' and 'Average USG%', the 3 players selected for each team had their PPG+AST+REB and USG% averaged. These new metrics were used as a baseline for their respective teams when it comes to linear regression later on.
 
 #### 3. Methods and Algorithms
-   - **Descriptive Statistics**: Mention any initial statistics or data summaries.
    - **Exploratory Data Analysis (EDA)**: Techniques used to explore the data were visualization, linear regression, and the use of PANDAS.
    - **Regression Analysis**: Regression Anaylsis was performed on 4 different scenarios to investigate the similarities between player statistics and team success stats.
 
